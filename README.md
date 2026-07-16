@@ -60,16 +60,6 @@ I'm a Computer Engineering student passionate about building web applications an
 
 ---
 
-## 🎯 2026 Goals
-
-* Build 10+ Real-World Projects
-* Master Flask & Django
-* Learn REST API Development
-* Strengthen Data Structures & Algorithms
-* Contribute to Open Source
-
----
-
 ## 📊 GitHub Stats
 
 ![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedantmagdum\&show_icons=true\&theme=tokyonight)
@@ -81,7 +71,7 @@ I'm a Computer Engineering student passionate about building web applications an
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Vedantmagdum
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: https://www.linkedin.com/in/vedant-magdum-a02128350/
 
 ---
 
