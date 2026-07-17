@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vedant Magdum
 
-### 💻 Aspiring Python Backend Developer
+### 💻 Aspiring Python Developer
 
 I'm a Computer Engineering student passionate about building web applications and continuously improving my programming skills. I enjoy learning new technologies and creating practical projects.
 
@@ -31,6 +31,7 @@ I'm a Computer Engineering student passionate about building web applications an
 * GitHub
 * MySQL
 * VS Code
+* jupyter
 
 ---
 
