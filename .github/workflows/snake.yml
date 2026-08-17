@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Allow the workflow to push the generated files
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
