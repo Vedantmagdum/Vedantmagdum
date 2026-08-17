@@ -60,11 +60,13 @@ I'm a Computer Engineering student passionate about building web applications an
 * Database Design
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vedantmagdum/Vedantmagdum/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vedantmagdum/Vedantmagdum/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ## 📊 GitHub Stats
 
 ![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedantmagdum\&show_icons=true\&theme=tokyonight)
