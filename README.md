@@ -1,7 +1,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Vedant%20Magdum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-<h3 align="center"> Python Developer | Python · Flask · MySQL</h3>
+<h3 align="center"> Python Developer</h3>
 <p align="center">
   <a href="https://github.com/Vedantmagdum">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,13 +32,11 @@
 
 * Git
 * GitHub
-* MySQL
 * VS Code
-* jupyter
 
 ---
 
-## 📂 Projects
+## 📂 Projects 1
 
 ### 🔐 Login & Signup Authentication System
 
@@ -51,8 +49,26 @@
 * Form Validation
 * Responsive Design
 * Clean User Interface
+  
 
+## 📂 Projects 2
+
+### EngiPrep – Placement Preparation Platform
+EngiPrep is a web-based placement preparation platform.
+
+**Technologies Used:** HTML5,CSS3 JavaScript Poppins Font ,Python ,Flask, PostgreSQL, Google Gemini API, Rende,Git,GitHub
+
+**Features**
+* STUDENT AUTHENTICATION
+* STUDENT PROFILE MANAGEMENT
+* APTITUDE PREPARATION
+* AI-POWERED QUESTION GENERATION
+* AI-POWERED CHATBOT
+* STUDENT DASHBOARD
+
+Link - https://engiprep.onrender.com
 ---
+
 
 ## 📚 Currently Learning
 
